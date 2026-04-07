@@ -1,0 +1,22 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docview
+
+# Debug files
+*.pdb
+*.ilk
+
+# NuGet
+packages/
+*.nupkg
+
+# OS files
+.DS_Store
+Thumbs.db
