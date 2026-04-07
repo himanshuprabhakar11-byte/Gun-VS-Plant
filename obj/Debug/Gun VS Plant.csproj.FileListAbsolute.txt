@@ -1,7 +1,0 @@
-C:\Users\himan\OneDrive\Desktop\C# Script Games\GunVSPlant\Gun VS Plant\Gun VS Plant\bin\Debug\Gun VS Plant.exe.config
-C:\Users\himan\OneDrive\Desktop\C# Script Games\GunVSPlant\Gun VS Plant\Gun VS Plant\bin\Debug\Gun VS Plant.exe
-C:\Users\himan\OneDrive\Desktop\C# Script Games\GunVSPlant\Gun VS Plant\Gun VS Plant\bin\Debug\Gun VS Plant.pdb
-C:\Users\himan\OneDrive\Desktop\C# Script Games\GunVSPlant\Gun VS Plant\Gun VS Plant\obj\Debug\Gun VS Plant.csproj.AssemblyReference.cache
-C:\Users\himan\OneDrive\Desktop\C# Script Games\GunVSPlant\Gun VS Plant\Gun VS Plant\obj\Debug\Gun VS Plant.csproj.CoreCompileInputs.cache
-C:\Users\himan\OneDrive\Desktop\C# Script Games\GunVSPlant\Gun VS Plant\Gun VS Plant\obj\Debug\Gun VS Plant.exe
-C:\Users\himan\OneDrive\Desktop\C# Script Games\GunVSPlant\Gun VS Plant\Gun VS Plant\obj\Debug\Gun VS Plant.pdb
