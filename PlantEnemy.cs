@@ -31,7 +31,7 @@ namespace Gun_VS_Plant
         {
             if (shieldActive)
             {
-                Console.WriteLine(type + "blocked the attack!");
+                Console.WriteLine(type + " blocked the attack!");
                 shieldActive = false;
             }
             else
